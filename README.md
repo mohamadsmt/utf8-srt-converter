@@ -20,7 +20,7 @@ To use the converter, follow these steps:
 
 #For windows:
 1. Install Python on your computer, if it is not already installed.
-2. Download latest release or clone the repository to your local machine `git clone https://github.com/mohamadsmt/utf8-srt-converter.git`
+2. Download latest release.
 3. unzip the downloaded file and navigate to the cloned directory.
 4. Run the converter using `Sub converter.exe`
 5. New SRT file generated in cloned directory.
