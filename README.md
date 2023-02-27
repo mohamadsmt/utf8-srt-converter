@@ -31,4 +31,4 @@ If you would like to contribute to the project, feel free to submit a pull reque
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE.md) file for details.
